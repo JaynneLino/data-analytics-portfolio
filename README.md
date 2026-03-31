@@ -15,3 +15,20 @@ Final project for the **Data Analyst Program at Cesae Digital (Porto)**. This co
 
 ---
 *This report includes actionable suggestions for Logistics, Stock Management, and Customer Retention.*
+
+![Capa do Relatório](screenshots/Home.png)
+
+### 📊 Visão Geral das Vendas
+![Visão Geral](screenshots/Geral.png)
+
+### 📊 Categorias
+![Categorias](screenshots/Categorias.png)
+
+### 📊 Clientes
+![Clientes](screenshots/Clientes.png)
+
+### 📊 Conclusões
+![Conclusões](screenshots/Conclusoes.png)
+
+### 🧠 Modelo de Dados (Star Schema)
+![Modelo de Dados](screenshots/Modeling.png)
